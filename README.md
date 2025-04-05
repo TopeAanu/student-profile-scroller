@@ -1,2 +1,2 @@
 # Student Profile Scroller 
-Student Profile Scroller  [student-profiles](https://uni-student-profs.netlify.app/)
+SPS allows you to view schools' student profiles with ease. Built with html, css, and javadcript. View project [here](https://uni-student-profs.netlify.app/)
